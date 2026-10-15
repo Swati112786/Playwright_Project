@@ -21,3 +21,6 @@ reports/
 
 # macOS files
 .DS_Store
+
+# Private login test data
+test_data/login_data.py
